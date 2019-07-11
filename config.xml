@@ -1,0 +1,20 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:gap="http://phonegap.com/ns/1.0"
+        id="org.sergiolopes.cenourapp"
+        version="1.0.0">
+
+    <name>Menu Só de Cenoura</name>
+
+    <description>
+        Menu do restaurante Só de Cenoura.
+    </description>
+
+    <plugin name="cordova-plugin-splashscreen"/>
+
+    <author href="http://sergiolopes.org" email="augusto_n.b@hotmail.com">
+        Augusto do Nascimento batista
+    </author>
+    
+</widget>
